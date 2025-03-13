@@ -1,0 +1,1 @@
+import{j as s}from"./vendor.BwjJCg45.js";const t=({articles:i})=>s.jsx("div",{children:i.map(e=>s.jsxs("div",{className:"bg-amber-200",children:[s.jsx("h1",{children:e.Name}),s.jsxs("p",{children:[" ",e.Subtitle]})]}))});export{t as default};
